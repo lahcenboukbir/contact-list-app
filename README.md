@@ -45,7 +45,7 @@ This is a simple contact list application built with Laravel. It allows users to
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/contact-list-app.git
+git clone https://github.com/lahcenboukbir/contact-list-app.git
 cd contact-list-app
 ```
 ### Install Dependencies
